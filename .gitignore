@@ -1,0 +1,15 @@
+assets/
+docs/
+uploads/
+
+*.zip
+*.rar
+*.doc*
+*.xls*
+*.txt
+*.csv
+*.ini
+*.lnk
+*.jpg
+
+*_old.*
