@@ -1,3 +1,7 @@
+<script>
+  location.replace("tmp/");
+  return;
+</script>
 <!DOCTYPE html>
 <html lang="id">
 
